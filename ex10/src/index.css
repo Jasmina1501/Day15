@@ -1,0 +1,14 @@
+#nav_bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links {
+  float: right;
+}
+
+.nav-links a {
+  display: block;
+  padding: 8px;
+}
